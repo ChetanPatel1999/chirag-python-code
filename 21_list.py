@@ -7,3 +7,5 @@ fruit=["orange","apple","banana"]
 print(fruit)
 city=["indore","ujjain","ratlam"]
 print(city)
+list2=["hindi",78,90.45,True,None,12+9j]
+print(list2)
