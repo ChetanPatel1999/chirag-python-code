@@ -1,4 +1,4 @@
-#wap to print 1 to 100 numbers.
+#wap to print 100 to 1 numbers.
 i=100
 while i>=1:
     print(i,end=" ")
